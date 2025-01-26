@@ -62,13 +62,6 @@ Explain the final build
 [Add your demo video link here]
 Explain what the video demonstrates
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤ at TinkerHub
