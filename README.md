@@ -45,9 +45,6 @@ Add caption explaining what this shows
 ![Screenshot (3)](https://github.com/user-attachments/assets/9c6af04c-3466-4ac3-a063-11d4a2586357)
 
 
-# Build Photos
-![![WhatsApp Image 2025-01-26 at 11 22 51_8381a654](https://github.com/user-attachments/assets/05ac08b4-ad0f-46a9-bdce-443618261932)
-Team](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
