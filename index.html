@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Career Guidance</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Welcome to Career Guidance</h1>
+		<p>Explore career opportunities after +2</p>
+		<button class="btn">Get Started</button>
+		<div class="streams">
+			<button class="stream-btn"onclick="window.open('bioscience.html')">Bio Science </button>
+			<button class="stream-btn"onclick="window.open('commerse.html')">Commerce</button>
+			<button class="stream-btn"onclick="window.open('cs1.html')">Computer Science</button>
+			<button class="stream-btn"onclick="window.open('humanities.html')">Humanities</button>
+	</div>
+	<button id="exit-button"onclick="exitFunction()">Exit</button>
+<script>
+    function exitFunction(){
+		if(confirm("are you want to exit?")){
+            window.close();
+        }
+	}
+</script>
+</body>
+</html>
