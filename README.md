@@ -11,7 +11,7 @@
 - Member 3: naja fathima k - College of engineering thalassery
 
 ### Hosted Project LinkS
-[mention your project hosted project link here]
+ https://misnaa1.github.io/project/
 
 ### Project Description
 The goal of this project is to design and develop a comprehensive website that provides information on various courses available to students after completing their +2 education. The website aims to cater to students, parents, and educators who seek information on courses, colleges, and career opportunities.
